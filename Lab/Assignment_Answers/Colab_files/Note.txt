@@ -1,0 +1,1 @@
+I made 1st file of image processing on colab. Later I couldn't code on my laptop so I shifted to colab. Then there are those files in this folder.

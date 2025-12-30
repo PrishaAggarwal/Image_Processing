@@ -1,0 +1,2 @@
+These are the files I made in Colab after I couldn't code directly on laptop in Image Processing
+Order might be messed up.
